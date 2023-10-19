@@ -1,4 +1,4 @@
-#clon de GOOGLE 
+# Clon de GOOGLE 
 
 Este proyecto fue creado durante el bootcamp Technolochicas PRO, es un clon de google con la finalidad de comprender parte de HTML y CSS
 
@@ -8,10 +8,10 @@ Incluye recursos multimedia
 
 <a href="" target="_blank">**Visitalo ahora** 🚀</a>
 
-#Secciones 
+# SECCIONES
 ![Alt text](image-1.png)
 
-#Tecnologías 
+# TECNOLOGÍAS
 
 ![HTML](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
