@@ -6,7 +6,7 @@ incluye todas las secciones correspondientes a la pagina de Google.
 
 Incluye recursos multimedia 
 
-<a href="" target="_blank">**Visitalo ahora** 🚀</a>
+<a href="https://6530aab1ea41995a41e4313c--playful-cassata-ddf047.netlify.app/" target="_blank">**Visitalo ahora** 🚀</a>
 
 # SECCIONES
 ![Alt text](image-1.png)
